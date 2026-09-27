@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A college mini-project Library Management System to manage books with CRUD operations, search, filters, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
